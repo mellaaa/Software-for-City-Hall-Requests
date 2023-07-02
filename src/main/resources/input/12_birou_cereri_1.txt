@@ -1,0 +1,10 @@
+adauga_utilizator; persoana; Cristina Cristescu
+adauga_utilizator; angajat; Ana Anescu; Google
+adauga_utilizator; angajat; George Georgescu; Meta
+cerere_noua; Ana Anescu; inregistrare venit salarial; 10-Jan-2022 10:01:00; 3
+cerere_noua; Ana Anescu; inlocuire carnet de sofer; 10-Jan-2022 10:00:00; 3
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:04:00; 5
+cerere_noua; George Georgescu; inregistrare venit salarial; 10-Jan-2022 10:03:00; 4
+cerere_noua; George Georgescu; inlocuire carnet de sofer; 10-Jan-2022 10:03:01; 2
+cerere_noua; George Georgescu; inlocuire buletin; 10-Jan-2022 10:02:00; 5
+afiseaza_cereri; angajat

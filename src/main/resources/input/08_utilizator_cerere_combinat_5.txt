@@ -1,0 +1,8 @@
+adauga_utilizator; persoana; Ion Popescu
+cerere_noua; Ion Popescu; inlocuire buletin; 11-Dec-2022 23:00:00; 2
+cerere_noua; Ion Popescu; inlocuire carnet de sofer; 10-Jan-2022 23:00:00; 4
+cerere_noua; Ion Popescu; inlocuire carnet de sofer; 11-Dec-2022 23:00:01; 2
+cerere_noua; Ion Popescu; creare act constitutiv; 11-Dec-2022 23:00:01; 2
+afiseaza_cereri_in_asteptare; Ion Popescu
+retrage_cerere; Ion Popescu; 11-Dec-2022 23:00:01
+afiseaza_cereri_in_asteptare; Ion Popescu

@@ -1,0 +1,11 @@
+adauga_utilizator; elev; Ioana Pop; Scoala Generala Nr. 2
+cerere_noua; Ioana Pop; inlocuire buletin; 10-Jan-2022 23:00:00; 4
+cerere_noua; Ioana Pop; inlocuire carnet de elev; 11-Dec-2022 23:00:00; 2
+cerere_noua; Ioana Pop; inlocuire buletin; 11-Dec-2022 23:00:01; 2
+cerere_noua; Ioana Pop; inregistrare venit salarial; 17-Dec-2022 23:59:00; 3
+cerere_noua; Ioana Pop; inlocuire buletin; 19-Nov-2022 23:59:00; 1
+afiseaza_cereri_in_asteptare; Ioana Pop
+retrage_cerere; Ioana Pop; 19-Nov-2022 23:59:00
+retrage_cerere; Ioana Pop; 10-Jan-2022 23:00:00
+retrage_cerere; Ioana Pop; 11-Dec-2022 23:00:00
+afiseaza_cereri_in_asteptare; Ioana Pop

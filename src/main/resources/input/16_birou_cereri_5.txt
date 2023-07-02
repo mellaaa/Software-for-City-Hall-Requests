@@ -1,0 +1,21 @@
+adauga_utilizator; persoana; Ana Anescu
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:01; 3
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:03; 2
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:02; 3
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:04; 4
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:05; 5
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:07; 2
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:06; 1
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:09; 3
+afiseaza_cereri; persoana
+retrage_cerere; Ana Anescu; 10-Jan-2022 10:01:03
+retrage_cerere; Ana Anescu; 10-Jan-2022 10:01:02
+retrage_cerere; Ana Anescu; 10-Jan-2022 10:01:04
+retrage_cerere; Ana Anescu; 10-Jan-2022 10:01:05
+retrage_cerere; Ana Anescu; 10-Jan-2022 10:01:07
+retrage_cerere; Ana Anescu; 10-Jan-2022 10:01:06
+adauga_functionar; persoana; Danut Functionarescu
+rezolva_cerere; persoana; Danut Functionarescu
+afiseaza_cereri; persoana
+afiseaza_cereri_in_asteptare; Ana Anescu
+afiseaza_cereri_finalizate; Ana Anescu

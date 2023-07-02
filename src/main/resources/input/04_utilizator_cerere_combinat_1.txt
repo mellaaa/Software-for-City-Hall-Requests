@@ -1,0 +1,10 @@
+adauga_utilizator; angajat; Irina Manole; SBP
+cerere_noua; Irina Manole; inlocuire buletin; 10-Jan-2022 23:00:00; 4
+cerere_noua; Irina Manole; inlocuire carnet de elev; 11-Dec-2022 23:00:00; 2
+cerere_noua; Irina Manole; inlocuire buletin; 11-Dec-2022 23:00:00; 2
+cerere_noua; Irina Manole; inlocuire buletin; 11-Dec-2022 00:00:00; 2
+cerere_noua; Irina Manole; inregistrare venit salarial; 17-Dec-2022 23:59:00; 3
+cerere_noua; Irina Manole; inlocuire buletin; 19-Nov-2022 23:00:00; 1
+afiseaza_cereri_in_asteptare; Irina Manole
+retrage_cerere; Irina Manole; 11-Dec-2022 23:00:00
+afiseaza_cereri_in_asteptare; Irina Manole

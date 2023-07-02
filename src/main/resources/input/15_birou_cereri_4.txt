@@ -1,0 +1,43 @@
+adauga_utilizator; pensionar; Ana Anescu
+adauga_utilizator; entitate juridica; Ionescu SRL; Ion Ionescu
+cerere_noua; Ana Anescu; inregistrare venit salarial; 10-Jan-2022 10:01:01; 3
+cerere_noua; Ana Anescu; inregistrare cupoane de pensie; 10-Jan-2022 10:01:05; 5
+cerere_noua; Ana Anescu; inregistrare cupoane de pensie; 10-Jan-2022 10:01:03; 5
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:04; 2
+cerere_noua; Ana Anescu; inlocuire buletin; 10-Jan-2022 10:01:07; 4
+cerere_noua; Ionescu SRL; reinnoire autorizatie; 11-Jan-2022 10:01:01; 3
+cerere_noua; Ionescu SRL; reinnoire autorizatie; 11-Jan-2022 10:01:05; 5
+cerere_noua; Ionescu SRL; reinnoire autorizatie; 11-Jan-2022 10:01:03; 5
+cerere_noua; Ionescu SRL; reinnoire autorizatie; 11-Jan-2022 10:01:04; 2
+cerere_noua; Ionescu SRL; reinnoire autorizatie; 11-Jan-2022 10:01:07; 4
+adauga_functionar; pensionar; Andra Functionarescu
+adauga_functionar; entitate juridica; Mihai Functionarescu
+adauga_utilizator; pensionar; Monica Margescu
+adauga_utilizator; entitate juridica; John SRL; John Smith
+cerere_noua; Monica Margescu; inlocuire carnet de sofer; 13-Jan-2022 10:01:01; 3
+cerere_noua; Monica Margescu; inregistrare cupoane de pensie; 13-Jan-2022 10:01:05; 5
+cerere_noua; Monica Margescu; inregistrare cupoane de pensie; 13-Jan-2022 10:01:03; 5
+cerere_noua; John SRL; creare act constitutiv; 16-Jan-2022 10:01:01; 3
+cerere_noua; John SRL; reinnoire autorizatie; 16-Jan-2022 10:01:05; 5
+cerere_noua; John SRL; creare act constitutiv; 16-Jan-2022 10:01:03; 5
+cerere_noua; John SRL; reinnoire autorizatie; 16-Jan-2022 10:01:04; 2
+afiseaza_cereri; pensionar
+afiseaza_cereri; entitate juridica
+retrage_cerere; Ana Anescu; 10-Jan-2022 10:01:03
+rezolva_cerere; pensionar; Andra Functionarescu
+adauga_functionar; pensionar; Cosmin Functionarescu
+adauga_functionar; entitate juridica; Ionel Functionarescu
+rezolva_cerere; pensionar; Cosmin Functionarescu
+rezolva_cerere; pensionar; Cosmin Functionarescu
+afiseaza_cereri_in_asteptare; Ana Anescu
+afiseaza_cereri_finalizate; Ana Anescu
+afiseaza_cereri_in_asteptare; Monica Margescu
+afiseaza_cereri_finalizate; Monica Margescu
+rezolva_cerere; entitate juridica; Mihai Functionarescu
+rezolva_cerere; entitate juridica; Ionel Functionarescu
+rezolva_cerere; entitate juridica; Mihai Functionarescu
+rezolva_cerere; entitate juridica; Ionel Functionarescu
+rezolva_cerere; entitate juridica; Mihai Functionarescu
+rezolva_cerere; entitate juridica; Ionel Functionarescu
+afiseaza_cereri; pensionar
+afiseaza_cereri; entitate juridica

@@ -1,0 +1,28 @@
+Utilizatorul de tip persoana nu poate inainta o cerere de tip inregistrare venit salarial
+Alina Ionescu - cereri in asteptare:
+19-Nov-2022 23:00:00 - Subsemnatul Alina Ionescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+11-Dec-2022 00:00:00 - Subsemnatul Alina Ionescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+11-Dec-2022 23:00:00 - Subsemnatul Alina Ionescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+17-Dec-2022 23:59:00 - Subsemnatul Alina Ionescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inregistrare venit salarial
+Ion Popescu - cereri in asteptare:
+10-Jan-2022 23:00:00 - Subsemnatul Ion Popescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+Utilizatorul de tip entitate juridica nu poate inainta o cerere de tip inregistrare venit salarial
+Utilizatorul de tip pensionar nu poate inainta o cerere de tip inregistrare venit salarial
+CC SRL - cereri in asteptare:
+10-Jan-2022 10:00:00 - Subsemnatul Cristina Cristescu, reprezentant legal al companiei CC SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie
+11-Dec-2022 15:15:00 - Subsemnatul Cristina Cristescu, reprezentant legal al companiei CC SRL, va rog sa-mi aprobati urmatoarea solicitare: creare act constitutiv
+11-Dec-2022 20:00:00 - Subsemnatul Cristina Cristescu, reprezentant legal al companiei CC SRL, va rog sa-mi aprobati urmatoarea solicitare: creare act constitutiv
+George Georgescu - cereri in asteptare:
+19-Nov-2022 11:00:00 - Subsemnatul George Georgescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+John Smith - cereri in asteptare:
+10-Sep-2022 10:00:00 - Subsemnatul John Smith, elev la scoala High School Musical, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de elev
+11-Sep-2022 15:15:00 - Subsemnatul John Smith, elev la scoala High School Musical, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de elev
+11-Sep-2022 22:00:00 - Subsemnatul John Smith, elev la scoala High School Musical, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+Alina Ionescu - cereri in asteptare:
+19-Nov-2022 23:00:00 - Subsemnatul Alina Ionescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+11-Dec-2022 23:00:00 - Subsemnatul Alina Ionescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+CC SRL - cereri in asteptare:
+11-Dec-2022 15:15:00 - Subsemnatul Cristina Cristescu, reprezentant legal al companiei CC SRL, va rog sa-mi aprobati urmatoarea solicitare: creare act constitutiv
+11-Dec-2022 20:00:00 - Subsemnatul Cristina Cristescu, reprezentant legal al companiei CC SRL, va rog sa-mi aprobati urmatoarea solicitare: creare act constitutiv
+George Georgescu - cereri in asteptare:
+19-Nov-2022 11:00:10 - Subsemnatul George Georgescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer

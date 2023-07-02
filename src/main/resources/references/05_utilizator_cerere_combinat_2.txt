@@ -1,0 +1,8 @@
+Utilizatorul de tip elev nu poate inainta o cerere de tip inregistrare venit salarial
+Ioana Pop - cereri in asteptare:
+10-Jan-2022 23:00:00 - Subsemnatul Ioana Pop, elev la scoala Scoala Generala Nr. 2, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+19-Nov-2022 23:59:00 - Subsemnatul Ioana Pop, elev la scoala Scoala Generala Nr. 2, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+11-Dec-2022 23:00:00 - Subsemnatul Ioana Pop, elev la scoala Scoala Generala Nr. 2, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de elev
+11-Dec-2022 23:00:01 - Subsemnatul Ioana Pop, elev la scoala Scoala Generala Nr. 2, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+Ioana Pop - cereri in asteptare:
+11-Dec-2022 23:00:01 - Subsemnatul Ioana Pop, elev la scoala Scoala Generala Nr. 2, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin

@@ -1,0 +1,28 @@
+angajat - cereri in birou:
+5 - 10-Jan-2022 10:02:00 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+5 - 10-Jan-2022 10:04:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+4 - 10-Jan-2022 10:03:00 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inregistrare venit salarial
+3 - 10-Jan-2022 10:00:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+3 - 10-Jan-2022 10:01:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inregistrare venit salarial
+2 - 10-Jan-2022 10:03:01 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+angajat - cereri in birou:
+5 - 10-Jan-2022 10:04:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+4 - 10-Jan-2022 10:03:00 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inregistrare venit salarial
+3 - 10-Jan-2022 10:00:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+3 - 10-Jan-2022 10:01:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inregistrare venit salarial
+2 - 10-Jan-2022 10:03:01 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+angajat - cereri in birou:
+4 - 10-Jan-2022 10:03:00 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inregistrare venit salarial
+3 - 10-Jan-2022 10:00:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+3 - 10-Jan-2022 10:01:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inregistrare venit salarial
+2 - 10-Jan-2022 10:03:01 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+Ana Anescu - cereri in asteptare:
+10-Jan-2022 10:00:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+10-Jan-2022 10:01:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inregistrare venit salarial
+Ana Anescu - cereri in finalizate:
+10-Jan-2022 10:04:00 - Subsemnatul Ana Anescu, angajat la compania Google, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+George Georgescu - cereri in asteptare:
+10-Jan-2022 10:03:00 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inregistrare venit salarial
+10-Jan-2022 10:03:01 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+George Georgescu - cereri in finalizate:
+10-Jan-2022 10:02:00 - Subsemnatul George Georgescu, angajat la compania Meta, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin

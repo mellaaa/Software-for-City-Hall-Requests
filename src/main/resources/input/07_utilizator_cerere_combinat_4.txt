@@ -1,0 +1,7 @@
+adauga_utilizator; entitate juridica; IP SRL; Ion Popescu
+cerere_noua; IP SRL; creare act constitutiv; 11-Dec-2022 23:00:00; 2
+cerere_noua; IP SRL; reinnoire autorizatie; 10-Jan-2022 23:00:00; 4
+cerere_noua; IP SRL; inlocuire carnet de sofer; 11-Dec-2022 23:00:01; 2
+afiseaza_cereri_in_asteptare; IP SRL
+retrage_cerere; IP SRL; 10-Jan-2022 23:00:00
+afiseaza_cereri_in_asteptare; IP SRL

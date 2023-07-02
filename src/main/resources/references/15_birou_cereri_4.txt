@@ -1,0 +1,37 @@
+Utilizatorul de tip pensionar nu poate inainta o cerere de tip inregistrare venit salarial
+pensionar - cereri in birou:
+5 - 10-Jan-2022 10:01:03 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
+5 - 10-Jan-2022 10:01:05 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
+5 - 13-Jan-2022 10:01:03 - Subsemnatul Monica Margescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
+5 - 13-Jan-2022 10:01:05 - Subsemnatul Monica Margescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
+4 - 10-Jan-2022 10:01:07 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+3 - 13-Jan-2022 10:01:01 - Subsemnatul Monica Margescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+2 - 10-Jan-2022 10:01:04 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+entitate juridica - cereri in birou:
+5 - 11-Jan-2022 10:01:03 - Subsemnatul Ion Ionescu, reprezentant legal al companiei Ionescu SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie
+5 - 11-Jan-2022 10:01:05 - Subsemnatul Ion Ionescu, reprezentant legal al companiei Ionescu SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie
+5 - 16-Jan-2022 10:01:03 - Subsemnatul John Smith, reprezentant legal al companiei John SRL, va rog sa-mi aprobati urmatoarea solicitare: creare act constitutiv
+5 - 16-Jan-2022 10:01:05 - Subsemnatul John Smith, reprezentant legal al companiei John SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie
+4 - 11-Jan-2022 10:01:07 - Subsemnatul Ion Ionescu, reprezentant legal al companiei Ionescu SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie
+3 - 11-Jan-2022 10:01:01 - Subsemnatul Ion Ionescu, reprezentant legal al companiei Ionescu SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie
+3 - 16-Jan-2022 10:01:01 - Subsemnatul John Smith, reprezentant legal al companiei John SRL, va rog sa-mi aprobati urmatoarea solicitare: creare act constitutiv
+2 - 11-Jan-2022 10:01:04 - Subsemnatul Ion Ionescu, reprezentant legal al companiei Ionescu SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie
+2 - 16-Jan-2022 10:01:04 - Subsemnatul John Smith, reprezentant legal al companiei John SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie
+Ana Anescu - cereri in asteptare:
+10-Jan-2022 10:01:04 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+10-Jan-2022 10:01:07 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+Ana Anescu - cereri in finalizate:
+10-Jan-2022 10:01:05 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
+Monica Margescu - cereri in asteptare:
+13-Jan-2022 10:01:01 - Subsemnatul Monica Margescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+Monica Margescu - cereri in finalizate:
+13-Jan-2022 10:01:03 - Subsemnatul Monica Margescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
+13-Jan-2022 10:01:05 - Subsemnatul Monica Margescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
+pensionar - cereri in birou:
+4 - 10-Jan-2022 10:01:07 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+3 - 13-Jan-2022 10:01:01 - Subsemnatul Monica Margescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+2 - 10-Jan-2022 10:01:04 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+entitate juridica - cereri in birou:
+3 - 16-Jan-2022 10:01:01 - Subsemnatul John Smith, reprezentant legal al companiei John SRL, va rog sa-mi aprobati urmatoarea solicitare: creare act constitutiv
+2 - 11-Jan-2022 10:01:04 - Subsemnatul Ion Ionescu, reprezentant legal al companiei Ionescu SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie
+2 - 16-Jan-2022 10:01:04 - Subsemnatul John Smith, reprezentant legal al companiei John SRL, va rog sa-mi aprobati urmatoarea solicitare: reinnoire autorizatie

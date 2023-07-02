@@ -1,0 +1,12 @@
+Utilizatorul de tip persoana nu poate inainta o cerere de tip inregistrare venit salarial
+Utilizatorul de tip elev nu poate inainta o cerere de tip inregistrare venit salarial
+Utilizatorul de tip elev nu poate inainta o cerere de tip creare act constitutiv
+Utilizatorul de tip elev nu poate inainta o cerere de tip inregistrare venit salarial
+persoana - cereri in birou:
+5 - 10-Jan-2022 10:04:00 - Subsemnatul Cristina Cristescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+3 - 10-Jan-2022 10:00:00 - Subsemnatul Cristina Cristescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+elev - cereri in birou:
+4 - 11-Jan-2022 10:03:00 - Subsemnatul George Georgescu, elev la scoala Scoala Generala Nr. 7, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+4 - 11-Jan-2022 10:03:01 - Subsemnatul George Georgescu, elev la scoala Scoala Generala Nr. 7, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de elev
+George Georgescu - cereri in finalizate:
+11-Jan-2022 10:03:01 - Subsemnatul George Georgescu, elev la scoala Scoala Generala Nr. 7, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de elev

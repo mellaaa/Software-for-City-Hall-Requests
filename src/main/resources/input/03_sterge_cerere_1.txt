@@ -1,0 +1,7 @@
+adauga_utilizator; angajat; Irina Manole; SBP
+cerere_noua; Irina Manole; inlocuire buletin; 12-Dec-1999 23:00:00; 3
+cerere_noua; Irina Manole; inlocuire carnet de sofer; 11-Dec-1999 23:00:00; 3
+cerere_noua; Irina Manole; inlocuire buletin; 12-Dec-2000 23:00:00; 1
+afiseaza_cereri_in_asteptare; Irina Manole
+retrage_cerere; Irina Manole; 12-Dec-1999 23:00:00
+afiseaza_cereri_in_asteptare; Irina Manole

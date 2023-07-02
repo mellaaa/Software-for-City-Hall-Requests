@@ -1,0 +1,8 @@
+Utilizatorul de tip pensionar nu poate inainta o cerere de tip inlocuire carnet de elev
+Utilizatorul de tip pensionar nu poate inainta o cerere de tip inregistrare venit salarial
+Ion Popescu - cereri in asteptare:
+10-Jan-2022 23:00:00 - Subsemnatul Ion Popescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire buletin
+19-Nov-2022 23:59:00 - Subsemnatul Ion Popescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
+11-Dec-2022 23:00:01 - Subsemnatul Ion Popescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
+Ion Popescu - cereri in asteptare:
+11-Dec-2022 23:00:01 - Subsemnatul Ion Popescu, va rog sa-mi aprobati urmatoarea solicitare: inlocuire carnet de sofer
